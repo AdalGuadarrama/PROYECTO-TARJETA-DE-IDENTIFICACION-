@@ -92,7 +92,7 @@ Para este repositorio te mostraremos paso a paso como programar los datos de ide
 ![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py18.jpg)
 
 #### CREDITOS
-Ing. 
-Ing. Armando G
-Ing. Guadarrama Lome Adalberto
+* Ing. Amairani Cisneros Hernandez
+* Ing. Armando Garcia Linzaga
+* Ing. Guadarrama Lome Adalberto
 
