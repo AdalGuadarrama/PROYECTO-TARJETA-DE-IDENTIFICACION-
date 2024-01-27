@@ -13,7 +13,7 @@ Para este repositorio te mostraremos paso a paso como programar los datos de ide
 ### INSTRUCCIONES 
 1. Abrimos el programa Worwi y colocamos el codigo.
 2. Agregamos las librerias ArduinoJson, Pubsubclient y LiquidCrystal 12C
-3. En la interfaz ESP32 colocamos nuestras resistencias y botonos junto a la pantalla led.
+3. En la interfaz ESP32 colocamos nuestras resistencias y pulsadores junto a la pantalla led.
 4. Despues hacemos las conexiones correspondientes.
 5. Abrimos el programa Node-red.   
 
