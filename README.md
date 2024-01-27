@@ -8,7 +8,7 @@ Para este repositorio te mostraremos paso a paso como programar los datos de ide
 * Programa NODE-RED
 * Interfaz ESP32
 * Tres resistencias
-* Tres botones
+* Tres pulsadores
 * Una pantalla LCD 6X2 (12C)
 ### INSTRUCCIONES 
 1. Abrimos el programa Worwi y colocamos el codigo.
