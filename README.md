@@ -13,17 +13,7 @@ Para este repositorio te mostraremos paso a paso como programar los datos de ide
 ### INSTRUCCIONES 
 1. Abrimos el programa Wokwi y colocamos el codigo.
 
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py1.png)
 
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py2.png)
-
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py3.png)
-
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py4.png)
-
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py5.png)
-
-![.](https://github.com/AdalGuadarrama/PROYECTO-TARJETA-DE-IDENTIFICACION-/blob/main/py6.png)
 
 2. Agregamos las librerias ArduinoJson, Pubsubclient y LiquidCrystal 12C.
 
