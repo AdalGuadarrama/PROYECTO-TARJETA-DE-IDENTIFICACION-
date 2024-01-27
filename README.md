@@ -170,7 +170,7 @@ if (!client.connected()) {
     doc["ESTATURA"] = "162cm";
 }
 
-if (digitalRead(boton2) == true) {
+  if (digitalRead(boton2) == true) {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("Ing Armando GL");
@@ -183,15 +183,15 @@ if (digitalRead(boton2) == true) {
   lcd.print("Peso:70kg");
   lcd.setCursor(0,1);
   lcd.print("Estatura:170cm");
- delay(2000);
- lcd.clear();
+    delay(2000);
+     lcd.clear();
     doc["NOMBRE"]="ING Armando";
     doc["EDAD"] = "25";
     doc["PESO"] ="70kg";
     doc["ESTATURA"] = "170cm";
 }
  
-if (digitalRead(boton3) == true) {
+  if (digitalRead(boton3) == true) {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("Ing Adalberto GL");
@@ -204,14 +204,14 @@ if (digitalRead(boton3) == true) {
   lcd.print("Peso:89 kg");
   lcd.setCursor(0,1);
   lcd.print("Estatura:170cm");
- delay(2000);
- lcd.clear();
+    delay(2000);
+    lcd.clear();
     doc["NOMBRE"]="ING Adalberto GL";
     doc["EDAD"] = "25";
     doc["PESO"] ="89kg";
     doc["ESTATURA"] = "170cm";
 }
-if(digitalRead(boton3)==false && digitalRead(boton2)==false && digitalRead(boton1)==false ){
+  if(digitalRead(boton3)==false && digitalRead(boton2)==false && digitalRead(boton1)==false ){
   lcd.print("Pulse un boton");
   lcd.setCursor(0, 0); 
   delay(2000); 
@@ -228,6 +228,8 @@ if(digitalRead(boton3)==false && digitalRead(boton2)==false && digitalRead(boton
   }
 }
 }
+
+
 2. Agregamos las librerias ArduinoJson, Pubsubclient y LiquidCrystal 12C.
 3. En la interfaz ESP32 colocamos nuestras resistencias y pulsadores junto a la pantalla led.
 4. Despues hacemos las conexiones correspondientes.
